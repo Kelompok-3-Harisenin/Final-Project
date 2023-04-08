@@ -27961,7 +27961,6 @@ video {
   --tw-ring-color: rgba(59, 130, 246, 0.5);
   --tw-ring-offset-shadow: 0 0 #0000;
   --tw-ring-shadow: 0 0 #0000;
-<<<<<<< HEAD
   --tw-shadow: 0 0 #0000;
   --tw-shadow-colored: 0 0 #0000;
   --tw-blur:  ;
@@ -28055,7 +28054,7 @@ video {
 }
 
 .bottom-\[\] {
-  bottom: ;
+
 }
 
 .bottom-\[10px\] {
@@ -28308,7 +28307,6 @@ video {
 }
 
 .bg-\[\] {
-  background-color: ;
 }
 
 .bg-\[\#1f2021\] {
@@ -28479,7 +28477,6 @@ video {
 }
 
 @media (min-width: 640px) {
-=======
 }
 
 .ring-0 {
@@ -34351,13 +34348,10 @@ video {
     bottom: -100%;
   }
 
->>>>>>> origin/Main-Content
   .sm\:left-0 {
     left: 0px;
   }
 
-<<<<<<< HEAD
-=======
   .sm\:left-1 {
     left: 0.25rem;
   }
@@ -52142,7 +52136,6 @@ video {
     background-size: auto;
   }
 
->>>>>>> origin/Main-Content
   .sm\:bg-cover {
     background-size: cover;
   }
@@ -52151,12 +52144,8 @@ video {
     background-size: contain;
   }
 
-<<<<<<< HEAD
-=======
   .sm\:bg-fixed {
-    background-attachment: fixed;
   }
-
   .sm\:bg-local {
     background-attachment: local;
   }
@@ -53254,16 +53243,12 @@ video {
     padding-bottom: 0.875rem;
   }
 
->>>>>>> origin/Main-Content
   .sm\:pl-0 {
     padding-left: 0px;
   }
-
-<<<<<<< HEAD
   .sm\:pl-12 {
     padding-left: 3rem;
   }
-=======
   .sm\:pl-1 {
     padding-left: 0.25rem;
   }
@@ -183010,5 +182995,4 @@ video {
     background-color: #f6f6f6;
     
     }
->>>>>>> origin/Main-Content
 }
