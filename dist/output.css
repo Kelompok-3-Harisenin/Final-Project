@@ -28053,9 +28053,6 @@ video {
   bottom: 0.75rem;
 }
 
-.bottom-\[\] {
-
-}
 
 .bottom-\[10px\] {
   bottom: 10px;
@@ -28306,8 +28303,6 @@ video {
   background-color: rgb(71 85 105 / var(--tw-bg-opacity));
 }
 
-.bg-\[\] {
-}
 
 .bg-\[\#1f2021\] {
   --tw-bg-opacity: 1;
@@ -52144,8 +52139,6 @@ video {
     background-size: contain;
   }
 
-  .sm\:bg-fixed {
-  }
   .sm\:bg-local {
     background-attachment: local;
   }
