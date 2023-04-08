@@ -512,3 +512,7 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+.hero-img{
+    background-image: url("img/Hero.jpg");
+ 
+}
